@@ -1,0 +1,26 @@
+{
+  "name": "incognito",
+  "version": "1.0.0",
+  "description": "a chatbot to automatically cover your faces",
+  "main": "app.js",
+  "scripts": {
+    "test": "/test",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "clarifai": "^2.1.5",
+    "memory-streams": "^0.1.2",
+    "memorystream": "^0.3.1",
+    "node-constants": "0.0.2",
+    "node-telegram-bot-api": "^0.27.0",
+    "pngjs": "^3.0.1",
+    "pureimage": "0.0.18",
+    "request": "^2.81.0"
+  }
+}
