@@ -2,10 +2,10 @@
   "name": "incognito",
   "version": "1.0.0",
   "description": "a chatbot to automatically cover your faces",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "/test",
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "keywords": [
     "chatbot"
